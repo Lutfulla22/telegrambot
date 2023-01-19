@@ -6,7 +6,7 @@ import buttons
 
 
 # Подключение к боту и к базе
-bot = telebot.TeleBot('5876665237:AAFHvWb_r-3-kJ8hICH4_QvMwEZx9HD7Evw')
+bot = telebot.TeleBot('Bot Token')
 
 
 
